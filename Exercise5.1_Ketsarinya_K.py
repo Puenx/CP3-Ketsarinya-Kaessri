@@ -1,0 +1,10 @@
+a = int(input("First Number : "))
+b = int(input("Second Number : "))
+c = a+b
+d = a-b
+e = a*b
+f = int(a/b)
+print("a + b =", c)
+print("a + b =", d)
+print("a + b =", e)
+print("a + b =", f)
